@@ -1,0 +1,9 @@
+<h1>{{title}}</h1>
+<ul class="heroes">
+  <!--li *ngFor="let hero of heroes" (click)="onSelect(hero)" [class.selected]="hero === selectedHero"-->
+  <li *ngFor="let hero of heroes" [class.selected]="hero === selectedHero">
+      <!--div><span class="badge">{{hero.id}}</span> {{hero.name}}</div-->
+    <div><star-selector [rating]="hero.rating"></star-selector></div>
+  </li>
+</ul>
+<hero-detail [hero]="selectedHero"></hero-detail>
