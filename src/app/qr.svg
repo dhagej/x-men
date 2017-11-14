@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="qr_head_logos" width="500" height="150">
+    <rect width="50" height="50" x="375" y="10" fill="red" rx="5" ry="5"/>
+    <text x="384" y="53" fill="#ffffff" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" font-size="50" style="font-weight:bold;">
+        T
+    </text>
+    <rect width="50" height="50" x="430" y="10" fill="red" rx="5" ry="5"/>
+    <text x="439" y="53" fill="#ffffff" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" font-size="50" style="font-weight:bold;">
+        E
+    </text>
+    <rect width="50" height="50" x="375" y="65" fill="red" rx="5" ry="5"/>
+    <text x="384" y="108" fill="#ffffff" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" font-size="50" style="font-weight:bold;">
+        B
+    </text>
+    <rect width="50" height="50" x="430" y="65" fill="red" rx="5" ry="5"/>
+    <text x="439" y="108" fill="#ffffff" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" font-size="50" style="font-weight:bold;">
+        L
+    </text>
+    <rect width="105" height="105" x="25" y="10" fill="#3b5998" rx="5" ry="5"/>
+    <text x="55" y="100" fill="white" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" font-size="100" style="font-weight:bold;">
+        t
+    </text>
+</svg>
