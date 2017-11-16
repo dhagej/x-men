@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="tebl_logo" width="1024" height="1024">
-    <rect width="1019" height="1019" x="5" y="5" fill="#3b5998" rx="50" ry="50"/>
-    <text x="650" y="875" alignment-baseline="bottom" text-anchor="middle" fill="white" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" font-size="1000" style="font-weight:bold;">
+<svg xmlns="http://www.w3.org/2000/svg" id="tebl_logo" width="1024" height="1024" viewBox="0 0 1024 1024">
+    <rect width="1024" height="1024" x="0" y="0" fill="#3b5998" rx="64" ry="64"/>
+    <text x="640" y="864" font-size="1024" alignment-baseline="bottom" text-anchor="middle" fill="white" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" style="font-weight:bold;">
         t
     </text>
 </svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="digitebl_logo" width="1024" height="1024" viewBox="0 0 1024 1024">
+    <rect width="500" height="500" x="0" y="0" fill="red" rx="64" ry="64"/>
+    <text x="320" y="432" font-size="512" fill="#ffffff" alignment-baseline="bottom" text-anchor="middle" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" style="font-weight:bold;">
+        T
+    </text>
+    <rect width="500" height="500" x="524" y="0" fill="red" rx="64" ry="64"/>
+    <text x="844" y="432" font-size="512" fill="#ffffff" alignment-baseline="bottom" text-anchor="middle" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" style="font-weight:bold;">
+        E
+    </text>
+    <rect width="500" height="500" x="0" y="524" fill="red" rx="64" ry="64"/>
+    <text x="320" y="956" font-size="512" fill="#ffffff" alignment-baseline="bottom" text-anchor="middle" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" style="font-weight:bold;">
+        B
+    </text>
+    <rect width="500" height="500" x="524" y="524" fill="red" rx="64" ry="64"/>
+    <text x="844" y="956" font-size="512" fill="#ffffff" alignment-baseline="bottom" text-anchor="middle" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" style="font-weight:bold;">
+        L
+    </text>
+</svg>

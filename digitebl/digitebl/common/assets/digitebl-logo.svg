@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="tebl_business_logo" width="110" height="110" viewBox="0 0 110 110">
+    <rect width="50" height="50" x="5" y="5" fill="red" rx="5" ry="5"/>
+    <text x="14" y="48" fill="#ffffff" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" font-size="50" style="font-weight:bold;">
+        T
+    </text>
+    <rect width="50" height="50" x="60" y="5" fill="red" rx="5" ry="5"/>
+    <text x="69" y="48" fill="#ffffff" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" font-size="50" style="font-weight:bold;">
+        E
+    </text>
+    <rect width="50" height="50" x="5" y="60" fill="red" rx="5" ry="5"/>
+    <text x="14" y="103" fill="#ffffff" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" font-size="50" style="font-weight:bold;">
+        B
+    </text>
+    <rect width="50" height="50" x="60" y="60" fill="red" rx="5" ry="5"/>
+    <text x="69" y="103" fill="#ffffff" font-family="Klavika Bold, Tahoma, Lucida Grande, Helvetica Neue, Roboto" font-size="50" style="font-weight:bold;">
+        L
+    </text>
+</svg>
